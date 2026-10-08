@@ -1,0 +1,160 @@
+{
+  "date": "2026-10-08",
+  "source": "https://www.sicherengineering.in",
+  "pages": [
+    {
+      "path": "/",
+      "status": 200,
+      "htmlBytes": 783100,
+      "currentRetainedAssetsFound": [
+        "logo",
+        "laser-cutting",
+        "welding-source",
+        "window-product"
+      ],
+      "mediaBases": [
+        "189591530206413c91d3ac4848692e8e.jpg",
+        "34d3d94481d145e19d068133f1dbe772.jpg",
+        "afb744_01aea4443c4d4fcfb8ebc5986ae16deb~mv2.png",
+        "afb744_3726ed1968194bd5945f870c22a00c10~mv2.png",
+        "afb744_7e0632a9ee6648d6bb6271e8d337f883~mv2.jpg",
+        "afb744_9f645058c6034bf692dffe69c0e880c3%7Emv2.png",
+        "afb744_b0047f003a9d4c8f99efb78edae92a19~mv2.png"
+      ]
+    },
+    {
+      "path": "/about-us",
+      "status": 200,
+      "htmlBytes": 742249,
+      "currentRetainedAssetsFound": [
+        "logo",
+        "sanding-source",
+        "workers-source"
+      ],
+      "mediaBases": [
+        "11062b_a26024d5855b4135943eaf74127eaa73~mv2.jpg",
+        "11062b_a5d18a398b024820bb2f32af55045180~mv2.jpeg",
+        "afb744_01aea4443c4d4fcfb8ebc5986ae16deb~mv2.png",
+        "afb744_9f645058c6034bf692dffe69c0e880c3%7Emv2.png"
+      ]
+    },
+    {
+      "path": "/products",
+      "status": 200,
+      "htmlBytes": 767455,
+      "currentRetainedAssetsFound": [
+        "logo",
+        "window-product",
+        "product-workshop",
+        "automatic-door",
+        "pivot-door",
+        "bench",
+        "lavatory-product"
+      ],
+      "mediaBases": [
+        "afb744_01aea4443c4d4fcfb8ebc5986ae16deb~mv2.png",
+        "afb744_19f589a2f178416e83c7846725f23431~mv2.jpg",
+        "afb744_342cad31c4514a219470ebfe166f6daf~mv2.jpg",
+        "afb744_746cc242a4164c098cbb88cbb41dee07~mv2.jpg",
+        "afb744_7e0632a9ee6648d6bb6271e8d337f883~mv2.jpg",
+        "afb744_9f645058c6034bf692dffe69c0e880c3%7Emv2.png",
+        "afb744_b457b07694514c789089d9871bbd260b~mv2.png",
+        "afb744_d8fcea0ed9af44d79866f0c371193cd2~mv2.jpg"
+      ]
+    },
+    {
+      "path": "/automated-door-solutions",
+      "status": 200,
+      "htmlBytes": 788679,
+      "currentRetainedAssetsFound": [
+        "logo",
+        "sliding-door-installation"
+      ],
+      "mediaBases": [
+        "afb744_01aea4443c4d4fcfb8ebc5986ae16deb~mv2.png",
+        "afb744_7e3651abac864077965b6c39d1e2f2b4~mv2.jpg",
+        "afb744_9f645058c6034bf692dffe69c0e880c3%7Emv2.png"
+      ]
+    },
+    {
+      "path": "/lavatory-solutions",
+      "status": 200,
+      "htmlBytes": 788392,
+      "currentRetainedAssetsFound": [
+        "logo",
+        "lavatory-assembly"
+      ],
+      "mediaBases": [
+        "afb744_01aea4443c4d4fcfb8ebc5986ae16deb~mv2.png",
+        "afb744_60c682f2752e45eda148310385c50f91~mv2.jpg",
+        "afb744_9f645058c6034bf692dffe69c0e880c3%7Emv2.png"
+      ]
+    },
+    {
+      "path": "/pivoted-door-solutions",
+      "status": 200,
+      "htmlBytes": 788764,
+      "currentRetainedAssetsFound": [
+        "logo",
+        "pivot-door-installation"
+      ],
+      "mediaBases": [
+        "afb744_01aea4443c4d4fcfb8ebc5986ae16deb~mv2.png",
+        "afb744_3f1b55f8bb7e4f3c8cae68c2564170a3~mv2.jpg",
+        "afb744_9f645058c6034bf692dffe69c0e880c3%7Emv2.png"
+      ]
+    },
+    {
+      "path": "/window-solutions",
+      "status": 200,
+      "htmlBytes": 788671,
+      "currentRetainedAssetsFound": [
+        "logo",
+        "window-installation"
+      ],
+      "mediaBases": [
+        "afb744_01aea4443c4d4fcfb8ebc5986ae16deb~mv2.png",
+        "afb744_11421021e3a746f4afcebdc289e03963~mv2.jpg",
+        "afb744_9f645058c6034bf692dffe69c0e880c3%7Emv2.png"
+      ]
+    },
+    {
+      "path": "/copy-of-window-solutions",
+      "status": 200,
+      "htmlBytes": 788028,
+      "currentRetainedAssetsFound": [
+        "logo",
+        "bench-installation"
+      ],
+      "mediaBases": [
+        "afb744_01aea4443c4d4fcfb8ebc5986ae16deb~mv2.png",
+        "afb744_9f645058c6034bf692dffe69c0e880c3%7Emv2.png",
+        "afb744_e0bc4b73692c40eca0dd66530bd6aac7~mv2.png"
+      ]
+    },
+    {
+      "path": "/contact-us",
+      "status": 200,
+      "htmlBytes": 798721,
+      "currentRetainedAssetsFound": [
+        "logo"
+      ],
+      "mediaBases": [
+        "afb744_01aea4443c4d4fcfb8ebc5986ae16deb~mv2.png",
+        "afb744_2833cd30a49f4e358296a8039119655c~mv2.png",
+        "afb744_9f645058c6034bf692dffe69c0e880c3%7Emv2.png"
+      ]
+    },
+    {
+      "path": "/capabilities",
+      "status": 404
+    },
+    {
+      "path": "/pages-sitemap.xml",
+      "status": 200,
+      "htmlBytes": 1140,
+      "currentRetainedAssetsFound": [],
+      "mediaBases": []
+    }
+  ]
+}

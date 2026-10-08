@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="1000" viewBox="0 0 1000 1000" fill="none">
+  <title>Illustrated rail sliding-door assembly</title>
+  <desc>A conceptual engineering illustration with metal frame, paired glazed doors, and an overhead drive. It is not a production drawing.</desc>
+  <defs>
+    <linearGradient id="steel" x1="0" y1="0" x2="1" y2=".25"><stop stop-color="#6a777a"/><stop offset=".22" stop-color="#d7e0e1"/><stop offset=".45" stop-color="#9aa8aa"/><stop offset=".78" stop-color="#f1f4f2"/><stop offset="1" stop-color="#6e7d80"/></linearGradient>
+    <linearGradient id="pane" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#6c9ca6" stop-opacity=".65"/><stop offset=".5" stop-color="#244049" stop-opacity=".7"/><stop offset="1" stop-color="#486671" stop-opacity=".8"/></linearGradient>
+    <radialGradient id="shadow"><stop stop-color="#141519" stop-opacity=".7"/><stop offset="1" stop-color="#141519" stop-opacity="0"/></radialGradient>
+  </defs>
+  <ellipse cx="503" cy="861" rx="360" ry="67" fill="url(#shadow)"/>
+  <ellipse cx="503" cy="851" rx="334" ry="65" stroke="#efab84" stroke-opacity=".18"/>
+  <g transform="translate(188 113) skewY(-4)">
+    <path d="M18 31L48 0H588L621 31V728L591 751H20Z" fill="#22252c" stroke="#43464d" stroke-width="2"/>
+    <path d="M20 38H599V732H20ZM51 71V698H567V71Z" fill="url(#steel)" fill-rule="evenodd"/>
+    <path d="M51 71H567V698H51Z" fill="#22252c"/>
+    <g stroke="#697e82" stroke-width="2">
+      <rect x="63" y="97" width="238" height="587" rx="6" fill="url(#steel)"/>
+      <rect x="315" y="97" width="238" height="587" rx="6" fill="url(#steel)"/>
+    </g>
+    <g stroke="#141519" stroke-width="7">
+      <rect x="79" y="117" width="205" height="396" rx="7" fill="url(#pane)"/>
+      <rect x="332" y="117" width="205" height="396" rx="7" fill="url(#pane)"/>
+    </g>
+    <path d="M144 132L123 495M153 132L132 495M398 132L377 495M407 132L386 495" stroke="#d9f2f5" stroke-opacity=".25" stroke-width="5"/>
+    <path d="M286 116V667M334 116V667" stroke="#efab84" stroke-width="2"/>
+    <rect x="298" y="103" width="14" height="577" rx="3" fill="#141519"/>
+    <rect x="79" y="530" width="204" height="134" rx="6" fill="url(#steel)"/>
+    <rect x="332" y="530" width="205" height="134" rx="6" fill="url(#steel)"/>
+    <rect x="259" y="399" width="12" height="64" rx="5" fill="#d4dfdf"/>
+    <rect x="344" y="399" width="12" height="64" rx="5" fill="#d4dfdf"/>
+    <rect x="37" y="20" width="544" height="63" rx="5" fill="url(#steel)" stroke="#dde7e6"/>
+    <path d="M52 31H566M52 70H566" stroke="#141519" stroke-width="6"/>
+    <rect x="262" y="34" width="95" height="37" rx="4" fill="#22252c"/>
+    <rect x="294" y="41" width="29" height="22" rx="2" fill="#efab84"/>
+    <g fill="#e1e9e6" stroke="#4b6167" stroke-width="3">
+      <circle cx="91" cy="49" r="11"/><circle cx="217" cy="49" r="11"/><circle cx="401" cy="49" r="11"/><circle cx="527" cy="49" r="11"/>
+    </g>
+    <g fill="#cdd8d8" stroke="#51676c">
+      <circle cx="34" cy="120" r="4"/><circle cx="34" cy="300" r="4"/><circle cx="34" cy="490" r="4"/><circle cx="34" cy="685" r="4"/>
+      <circle cx="583" cy="120" r="4"/><circle cx="583" cy="300" r="4"/><circle cx="583" cy="490" r="4"/><circle cx="583" cy="685" r="4"/>
+      <circle cx="96" cy="549" r="3"/><circle cx="264" cy="549" r="3"/><circle cx="96" cy="650" r="3"/><circle cx="264" cy="650" r="3"/>
+      <circle cx="351" cy="549" r="3"/><circle cx="517" cy="549" r="3"/><circle cx="351" cy="650" r="3"/><circle cx="517" cy="650" r="3"/>
+    </g>
+    <path d="M54 707H565M54 715H565" stroke="#22252c" stroke-width="3"/>
+    <path d="M81 17C82 3 200 4 259 26" stroke="#141519" stroke-width="5"/>
+  </g>
+</svg>

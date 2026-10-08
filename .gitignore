@@ -1,0 +1,15 @@
+dist/
+node_modules/
+.sites/
+docs/source-audit/
+docs/qa/
+*.tar.gz
+*.tar
+.DS_Store
+
+# Local credentials and hosting identity
+.env
+.env.*
+!.env.example
+.openai/
+.codex/

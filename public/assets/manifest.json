@@ -1,0 +1,303 @@
+[
+  {
+    "name": "logo",
+    "sourcePage": "https://www.sicherengineering.in/",
+    "sourceImage": "https://static.wixstatic.com/media/afb744_01aea4443c4d4fcfb8ebc5986ae16deb~mv2.png",
+    "alt": "sicher logo",
+    "originalDimensions": [
+      1536,
+      1024
+    ],
+    "dimensions": [
+      660,
+      188
+    ],
+    "file": "/assets/logo.png",
+    "presentationSource": "https://static.wixstatic.com/media/afb744_01aea4443c4d4fcfb8ebc5986ae16deb~mv2.png/v1/fill/w_660,h_188,al_c,q_85,usm_0.66_1.00_0.01,quality_auto/generated-image%20sicher%20logo.png"
+  },
+  {
+    "name": "laser-cutting",
+    "sourcePage": "https://www.sicherengineering.in/",
+    "sourceImage": "https://static.wixstatic.com/media/189591530206413c91d3ac4848692e8e.jpg",
+    "alt": "CNC Machine Operating",
+    "originalDimensions": [
+      3000,
+      2000
+    ],
+    "dimensions": [
+      1600,
+      1067
+    ],
+    "file": "/assets/laser-cutting.webp",
+    "smallDimensions": [
+      720,
+      480
+    ]
+  },
+  {
+    "name": "welding-source",
+    "sourcePage": "https://www.sicherengineering.in/",
+    "sourceImage": "https://static.wixstatic.com/media/34d3d94481d145e19d068133f1dbe772.jpg",
+    "alt": "",
+    "originalDimensions": [
+      2421,
+      1801
+    ],
+    "dimensions": [
+      1600,
+      1190
+    ],
+    "file": "/assets/welding-source.webp",
+    "smallDimensions": [
+      720,
+      536
+    ]
+  },
+  {
+    "name": "window-product",
+    "sourcePage": "https://www.sicherengineering.in/products",
+    "sourceImage": "https://static.wixstatic.com/media/afb744_7e0632a9ee6648d6bb6271e8d337f883~mv2.jpg",
+    "alt": "Window Solutions",
+    "originalDimensions": [
+      1024,
+      1024
+    ],
+    "dimensions": [
+      1024,
+      1024
+    ],
+    "file": "/assets/window-product.webp",
+    "smallDimensions": [
+      720,
+      720
+    ]
+  },
+  {
+    "name": "product-workshop",
+    "sourcePage": "https://www.sicherengineering.in/products",
+    "sourceImage": "https://static.wixstatic.com/media/afb744_746cc242a4164c098cbb88cbb41dee07~mv2.jpg",
+    "alt": "website 001.jpg",
+    "originalDimensions": [
+      5167,
+      3445
+    ],
+    "dimensions": [
+      1600,
+      1067
+    ],
+    "file": "/assets/product-workshop.webp",
+    "smallDimensions": [
+      720,
+      480
+    ]
+  },
+  {
+    "name": "automatic-door",
+    "sourcePage": "https://www.sicherengineering.in/products",
+    "sourceImage": "https://static.wixstatic.com/media/afb744_342cad31c4514a219470ebfe166f6daf~mv2.jpg",
+    "alt": "Automated Sliding Door",
+    "originalDimensions": [
+      2048,
+      2574
+    ],
+    "dimensions": [
+      1273,
+      1600
+    ],
+    "file": "/assets/automatic-door.webp",
+    "smallDimensions": [
+      573,
+      720
+    ]
+  },
+  {
+    "name": "pivot-door",
+    "sourcePage": "https://www.sicherengineering.in/products",
+    "sourceImage": "https://static.wixstatic.com/media/afb744_d8fcea0ed9af44d79866f0c371193cd2~mv2.jpg",
+    "alt": "Pivoted Door Solutions",
+    "originalDimensions": [
+      3298,
+      5875
+    ],
+    "dimensions": [
+      898,
+      1600
+    ],
+    "file": "/assets/pivot-door.webp",
+    "smallDimensions": [
+      404,
+      720
+    ]
+  },
+  {
+    "name": "bench",
+    "sourcePage": "https://www.sicherengineering.in/products",
+    "sourceImage": "https://static.wixstatic.com/media/afb744_19f589a2f178416e83c7846725f23431~mv2.jpg",
+    "alt": "Stainless Steel  Benches",
+    "originalDimensions": [
+      3985,
+      5977
+    ],
+    "dimensions": [
+      1067,
+      1600
+    ],
+    "file": "/assets/bench.webp",
+    "smallDimensions": [
+      480,
+      720
+    ]
+  },
+  {
+    "name": "lavatory-product",
+    "sourcePage": "https://www.sicherengineering.in/products",
+    "sourceImage": "https://static.wixstatic.com/media/afb744_b457b07694514c789089d9871bbd260b~mv2.png",
+    "alt": "Lavatory Solutions",
+    "originalDimensions": [
+      1024,
+      1024
+    ],
+    "dimensions": [
+      1024,
+      1024
+    ],
+    "file": "/assets/lavatory-product.webp",
+    "smallDimensions": [
+      720,
+      720
+    ]
+  },
+  {
+    "name": "sliding-door-installation",
+    "sourcePage": "https://www.sicherengineering.in/automated-door-solutions",
+    "sourceImage": "https://static.wixstatic.com/media/afb744_7e3651abac864077965b6c39d1e2f2b4~mv2.jpg",
+    "alt": "sliding door photo.jpg",
+    "originalDimensions": [
+      5790,
+      3860
+    ],
+    "dimensions": [
+      1600,
+      1067
+    ],
+    "file": "/assets/sliding-door-installation.webp",
+    "smallDimensions": [
+      720,
+      480
+    ]
+  },
+  {
+    "name": "lavatory-assembly",
+    "sourcePage": "https://www.sicherengineering.in/lavatory-solutions",
+    "sourceImage": "https://static.wixstatic.com/media/afb744_60c682f2752e45eda148310385c50f91~mv2.jpg",
+    "alt": "Lavatory Image",
+    "originalDimensions": [
+      3352,
+      2238
+    ],
+    "dimensions": [
+      1600,
+      1068
+    ],
+    "file": "/assets/lavatory-assembly.webp",
+    "smallDimensions": [
+      720,
+      481
+    ]
+  },
+  {
+    "name": "pivot-door-installation",
+    "sourcePage": "https://www.sicherengineering.in/pivoted-door-solutions",
+    "sourceImage": "https://static.wixstatic.com/media/afb744_3f1b55f8bb7e4f3c8cae68c2564170a3~mv2.jpg",
+    "alt": "Main door photo.jpg",
+    "originalDimensions": [
+      3778,
+      5667
+    ],
+    "dimensions": [
+      1067,
+      1600
+    ],
+    "file": "/assets/pivot-door-installation.webp",
+    "smallDimensions": [
+      480,
+      720
+    ]
+  },
+  {
+    "name": "window-installation",
+    "sourcePage": "https://www.sicherengineering.in/window-solutions",
+    "sourceImage": "https://static.wixstatic.com/media/afb744_11421021e3a746f4afcebdc289e03963~mv2.jpg",
+    "alt": "main door photo 2.jpg",
+    "originalDimensions": [
+      4000,
+      3000
+    ],
+    "dimensions": [
+      1600,
+      1200
+    ],
+    "file": "/assets/window-installation.webp",
+    "smallDimensions": [
+      720,
+      540
+    ]
+  },
+  {
+    "name": "bench-installation",
+    "sourcePage": "https://www.sicherengineering.in/copy-of-window-solutions",
+    "sourceImage": "https://static.wixstatic.com/media/afb744_e0bc4b73692c40eca0dd66530bd6aac7~mv2.png",
+    "alt": "SS bench 2.0.png",
+    "originalDimensions": [
+      1100,
+      801
+    ],
+    "dimensions": [
+      1100,
+      801
+    ],
+    "file": "/assets/bench-installation.webp",
+    "smallDimensions": [
+      720,
+      524
+    ]
+  },
+  {
+    "name": "sanding-source",
+    "sourcePage": "https://www.sicherengineering.in/about-us",
+    "sourceImage": "https://static.wixstatic.com/media/11062b_a26024d5855b4135943eaf74127eaa73~mv2.jpg",
+    "alt": "Sanding Machine",
+    "originalDimensions": [
+      4566,
+      3044
+    ],
+    "dimensions": [
+      1600,
+      1067
+    ],
+    "file": "/assets/sanding-source.webp",
+    "smallDimensions": [
+      720,
+      480
+    ]
+  },
+  {
+    "name": "workers-source",
+    "sourcePage": "https://www.sicherengineering.in/about-us",
+    "sourceImage": "https://static.wixstatic.com/media/11062b_a5d18a398b024820bb2f32af55045180~mv2.jpeg",
+    "alt": "Workers with Masks",
+    "originalDimensions": [
+      3024,
+      2017
+    ],
+    "dimensions": [
+      1600,
+      1067
+    ],
+    "file": "/assets/workers-source.webp",
+    "smallDimensions": [
+      720,
+      480
+    ]
+  }
+]
