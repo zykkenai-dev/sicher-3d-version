@@ -8,12 +8,10 @@
   const experience = document.querySelector('.engineering-experience');
   const header = document.querySelector('.site-header');
   const progressBar = document.querySelector('.reading-progress');
-  const controls = [...document.querySelectorAll('[data-motion-toggle]')];
   const parallaxItems = [...document.querySelectorAll('[data-parallax]')];
   const activeParallax = new Set();
   const chapters = [...document.querySelectorAll('.experience-chapter[data-chapter]')];
   const clamp = (value, min = 0, max = 1) => Math.min(max, Math.max(min, value));
-  let manuallyPaused = false;
   let animationFrame = 0;
   let lastExperienceProgress = -1;
   let lastChapter = '';
@@ -31,7 +29,7 @@
     if (!element.hasAttribute('data-reveal')) element.dataset.reveal = 'rise';
   }
 
-  const paused = () => manuallyPaused || preference.matches || saveData;
+  const paused = () => preference.matches || saveData;
   const revealVisible = () => {
     const height = window.innerHeight;
     const visible = revealItems.filter(element => {
@@ -101,14 +99,6 @@
     root.classList.toggle('motion-compact', compactViewport.matches);
     root.classList.toggle('motion-ready', observersReady && !isPaused);
     root.dataset.motion = preference.matches ? 'reduced' : isPaused ? 'paused' : 'enabled';
-    for (const control of controls) {
-      control.setAttribute('aria-pressed', String(isPaused));
-      const label = control.querySelector('[data-motion-label]');
-      const text = preference.matches ? 'Reduced motion' : saveData ? 'Motion off' : isPaused ? 'Resume motion' : 'Pause motion';
-      if (label) label.textContent = text;
-      else control.textContent = text;
-      control.disabled = preference.matches || saveData;
-    }
     if (isPaused) {
       for (const element of parallaxItems) element.style.setProperty('--parallax-y', '0px');
     } else revealVisible();
@@ -146,10 +136,6 @@
     }
   }
 
-  for (const control of controls) control.addEventListener('click', () => {
-    manuallyPaused = !manuallyPaused;
-    syncPreference();
-  });
   document.addEventListener('focusin', event => {
     let element = event.target.closest?.('[data-reveal]');
     while (element) {

@@ -24,7 +24,7 @@ The checks cover generated pages, local links/anchors/assets, metadata, structur
 
 The graphite, warm ivory and copper homepage pairs a procedural metal-and-glass door study with three engineering chapters. Native scrolling reveals the story; there is no scroll hijacking. Assemble, Explode, Rotate and Reset controls provide a closer look. The 3D model is an illustrative concept, not proprietary product CAD.
 
-Phones and short windows display the chapters sequentially. A global Pause motion control exposes the full story and stops continuous motion. Reduced-motion and Save-Data preferences bypass the loader and continuous scene animation. A vector illustration remains available when WebGL or the scene module cannot load. The loader follows image, font and scene readiness, allows interaction to skip it, and has a 1.7-second deadline.
+Phones and short windows display the chapters sequentially. Reduced-motion and Save-Data preferences expose the full story and bypass the loader and continuous scene animation. A vector illustration remains available when WebGL or the scene module cannot load. The loader follows image, font and scene readiness, allows interaction to skip it, and has a 1.7-second deadline.
 
 Three.js and IBM Plex Sans are served locally. The scene module is requested only on the homepage; inner pages remain lightweight static pages.
 

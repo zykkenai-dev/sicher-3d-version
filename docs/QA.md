@@ -40,7 +40,7 @@ Additional homepage checks verified the final 700/701px height boundary, a 1440�
 
 - The real WebGL assembly rendered successfully. Assemble, Explode, Rotate and Reset controls responded; the exploded view visibly separated the glazed leaves and overhead components.
 - Native scroll reached the middle and final engineering chapters and updated accessible chapter visibility.
-- Pause motion disabled continuous scene interaction, exposed all chapters and made reveal content immediately visible. Resume restored enhancements.
+- In the initial build, Pause motion and Resume motion passed interaction checks. The global control was removed on 9 October 2026 at the user’s request; automatic motion preferences remain supported.
 - The homepage, portfolio section, mobile hero, menu and review dialog were inspected visually.
 - Mobile navigation and product submenu opened correctly and stayed within a scrollable viewport.
 - Product gallery opened, advanced to the application image, loaded that image and closed with Escape. The dialog fit the 390px-high landscape viewport.
@@ -68,3 +68,14 @@ The later visual refinement replaces lime/green with graphite, warm ivory and co
 The revised 18 pages passed 144 checks at the eight viewport sizes above, comparing document scroll width against its actual client width. There were no horizontal overflows, missing primary headings or broken sourced images. See `qa/copper-responsive-matrix.json` and `qa/copper-hero-desktop.png`. The 320px homepage typography inspection found no retained useful main/footer text below 13px. An independent CSS audit found no meaningful small-text contrast failures. The real scene rendered successfully with copper lighting; native scroll behavior and motion controls retain their existing implementation.
 
 The build, content and loader checks passed after this refinement. The original and Classic folders remained unchanged against all 221 saved hashes. The new local preview was refreshed at http://localhost:4174/.
+
+
+## Motion toggle removal — 9 October 2026
+
+Removed the global Pause/Resume button from every page, its styles, and manual-toggle JavaScript wiring. Reduced-motion and Save-Data preferences still expose the full story and stop continuous motion automatically. Removed the hero/footer spacing reserved for the floating button.
+
+Before the GitHub push, all 18 generated content pages returned HTTP 200 and were checked for the absence of toggle markup and for device-width viewport metadata. The build, content, asset, link, specification, form and loader checks passed. JavaScript syntax and focused motion regressions passed without a toggle, including native scroll, mobile chapters, live preference changes, Save-Data, scene state replay and observer fallback.
+
+A responsive source review found and fixed a narrow-phone submenu issue: the mobile product menu now uses 100% of its parent width, including padding through border-box sizing, instead of a fixed 320px width. Comparing parsed CSS rules with the previously tested commit confirms that all other page layouts and breakpoint rules retain the prior 144-check responsive baseline. The only additional style changes remove the toggle and its reserved spacing. No unresolved source-level layout concerns were found.
+
+A fresh visual viewport pass was unavailable: the browser tool’s automatic security review rejected access to the localhost preview with a disallowed URL-protocol message. No alternate browser route was attempted. These are source/regression checks against prior browser evidence; they are not a new 144-viewport rendering result or a guarantee for every physical device. Local readings are in `qa/motion-toggle-removal-checks.json`.
